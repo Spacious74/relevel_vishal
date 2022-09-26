@@ -23,8 +23,16 @@ function transposeMatrix(matrix) {
 
         }
     }
+    
     console.log("");
     console.log("Transposed Matrix - ");
+    for (let i = 0; i < rowlen; i++) {
+        let str = "";
+        for (let j = 0; j < matrix[i].length; j++) {
+            str = str + matrix[i][j] + " ";
+        }
+        console.log(str);
+    }
 }
 
 let matrix = [
