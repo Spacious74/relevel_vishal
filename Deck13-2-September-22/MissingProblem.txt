@@ -1,0 +1,9 @@
+Problem missing = 1
+Topic = Explode Bomb Problem is missing - 
+
+Problem - 
+
+Given a matrix. There are bombs placed at some cells denoted by value -1. So, 
+wherever a bomb is placed, the cells around it explodes which means there value 
+gets incremented by 1 except if that is a bomb too. Initial value of all empty cells is 
+assumed to be 0. So, print the final state of the matrix after all bombs explode.
