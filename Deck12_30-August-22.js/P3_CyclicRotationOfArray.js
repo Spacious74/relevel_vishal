@@ -11,5 +11,5 @@ function cyclicRotateArray(array,n) {
     console.log(rotatedArray);
 
 }
-let array = [6, 5, 4, 7, 8];
-cyclicRotateArray(array,2); // (array, how many cyclic elements you want to rotate)
+let array = [1,2,3,6,9,8,7,4];
+cyclicRotateArray(array,1); // (array, how many cyclic elements you want to rotate)
