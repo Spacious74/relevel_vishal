@@ -1,0 +1,71 @@
+[
+    {
+        "brandName": "Audi",
+        "brandModels": [
+            {
+                "brandModelname": "Q3",
+                "engine": "4 litres",
+                "highspeed": "385 kmph",
+                "costofmodel": "$ 1,00,000"
+            },
+            {
+                "brandModelname": "R8",
+                "engine": "5 litres",
+                "highspeed": "455 kmph",
+                "costofmodel": "$ 10,00,000"
+            },
+            {
+                "brandModelname": "Q5",
+                "engine": "5 litres",
+                "highspeed": "400 kmph",
+                "costofmodel": "$ 1,50,000"
+            }
+        ]
+    },
+    {
+        "brandName": "BMW",
+        "brandModels": [
+            {
+                "brandModelname": "vision 100",
+                "engine": "100MW",
+                "highspeed": "200 kmph",
+                "costofmodel": "$ 2,00,000"
+            },
+            {
+                "brandModelname": "spectre1",
+                "engine": "Hybrid",
+                "highspeed": "300 kmph",
+                "costofmodel": "$ 10,00,000"
+            },
+            {
+                "brandModelname": "e100",
+                "engine": "6 litres",
+                "highspeed": "400 kmph",
+                "costofmodel": "$ 3,50,000"
+            }
+        ]
+    },
+    {
+        "brandName": "Mercedes Benz",
+        "brandModels": [
+            {
+                "brandModelname": "e-vision",
+                "engine": "400MW",
+                "highspeed": "400 kmph",
+                "costofmodel": "$ 20,00,000"
+            },
+            {
+                "brandModelname": "CLA33",
+                "engine": "3 litres",
+                "highspeed": "350 kmph",
+                "costofmodel": "$ 5,00,000"
+            },
+            {
+                "brandModelname": "CDI100",
+                "engine": "4 litres",
+                "highspeed": "400 kmph",
+                "costofmodel": "$ 5,50,000"
+            }
+        ]
+    }
+]
